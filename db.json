@@ -1,0 +1,300 @@
+{
+    "userData": [
+        {
+            "profile": {
+                "name": "Bruce William",
+                "imageUrl": "../my-project/src/assets/profile1.png",
+                "orionScore": 84,
+                "assesmentScore": 89,
+                "aiPreInterviewScore": 81,
+                "liveInterviewScore": 85,
+                "employeeStatus": "Referred"
+            },
+            "assigned_to": [
+                {
+                    "name": "Maria Joyce",
+                    "imageUrl": "../my-project/src/assets/profile1.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                }
+            ],
+            "interview_date": "2024-05-08T00:00:00.000Z",
+            "interview_status": "Completed",
+            "interview_score": 70,
+            "job_fit_score": 79,
+            "interview_stage": 2,
+            "employment_status": "Hired"
+        },
+        {
+            "profile": {
+                "name": "Leo Wright",
+                "imageUrl": "../my-project/src/assets/profile2.png",
+                "orionScore": 54,
+                "assesmentScore": 29,
+                "aiPreInterviewScore": 41,
+                "liveInterviewScore": 55,
+                "employeeStatus": "Employee"
+            },
+            "assigned_to": [
+                {
+                    "name": "Maria Joyce",
+                    "imageUrl": "../my-project/src/assets/profile1.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                }
+            ],
+            "interview_date": "2024-06-25T00:00:00.000Z",
+            "interview_status": "Completed",
+            "interview_score": 34,
+            "job_fit_score": 33,
+            "interview_stage": 2,
+            "employment_status": "Shortlisted"
+        },
+        {
+            "profile": {
+                "name": "Markus Dupree",
+                "imageUrl": "../my-project/src/assets/profile2.png",
+                "orionScore": 44,
+                "assesmentScore": 29,
+                "aiPreInterviewScore": 61,
+                "liveInterviewScore": 55
+            },
+            "assigned_to": [
+                {
+                    "name": "Maria Joyce",
+                    "imageUrl": "../my-project/src/assets/profile1.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                }
+            ],
+            "interview_date": "2024-06-05T00:00:00.000Z",
+            "interview_status": "Completed",
+            "interview_score": 17,
+            "job_fit_score": 68,
+            "interview_stage": 2,
+            "employment_status": "Shortlisted"
+        },
+        {
+            "profile": {
+                "name": "Ava Khan",
+                "imageUrl": "../my-project/src/assets/profile1.png",
+                "orionScore": 44,
+                "assesmentScore": 59,
+                "aiPreInterviewScore": 21,
+                "liveInterviewScore": 45
+            },
+            "assigned_to": [
+                {
+                    "name": "Maria Joyce",
+                    "imageUrl": "../my-project/src/assets/profile1.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                }
+            ],
+            "interview_date": "2024-01-25T00:00:00.000Z",
+            "interview_status": "Pending",
+            "interview_score": 10,
+            "job_fit_score": 18,
+            "interview_stage": 1,
+            "employment_status": "Take Action"
+        },
+        {
+            "profile": {
+                "name": "Ethan Miller",
+                "imageUrl": "../my-project/src/assets/profile2.png",
+                "orionScore": 64,
+                "assesmentScore": 49,
+                "aiPreInterviewScore": 61,
+                "liveInterviewScore": 75
+            },
+            "assigned_to": [
+                {
+                    "name": "Maria Joyce",
+                    "imageUrl": "../my-project/src/assets/profile1.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                }
+            ],
+            "interview_date": "2024-03-05T00:00:00.000Z",
+            "interview_status": "Pending",
+            "interview_score": null,
+            "job_fit_score": null,
+            "interview_stage": 0,
+            "employment_status": "Take Action"
+        },
+        {
+            "profile": {
+                "name": "Chloe Carter",
+                "imageUrl": "../my-project/src/assets/profile1.png",
+                "orionScore": 64,
+                "assesmentScore": 79,
+                "aiPreInterviewScore": 81,
+                "liveInterviewScore": 85
+            },
+            "assigned_to": [
+                {
+                    "name": "Maria Joyce",
+                    "imageUrl": "../my-project/src/assets/profile1.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                }
+            ],
+            "interview_date": "2024-07-17T00:00:00.000Z",
+            "interview_status": "Cancelled",
+            "interview_score": 0,
+            "job_fit_score": 0,
+            "interview_stage": 0,
+            "employment_status": "Take Action"
+        },
+        {
+            "profile": {
+                "name": "Olivia Bennett",
+                "imageUrl": "../my-project/src/assets/profile1.png",
+                "orionScore": 74,
+                "assesmentScore": 79,
+                "aiPreInterviewScore": 851,
+                "liveInterviewScore": 65
+            },
+            "assigned_to": [
+                {
+                    "name": "Maria Joyce",
+                    "imageUrl": "../my-project/src/assets/profile1.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                },
+                {
+                    "name": "James David",
+                    "imageUrl": "../my-project/src/assets/profile2.png"
+                }
+            ],
+            "interview_date": "2023-09-10T00:00:00.000Z",
+            "interview_status": "Cancelled",
+            "interview_score": 0,
+            "job_fit_score": 0,
+            "interview_stage": 0,
+            "employment_status": "Take Action"
+        }
+    ]
+}
